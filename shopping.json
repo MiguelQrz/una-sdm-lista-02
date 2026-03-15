@@ -1,0 +1,7 @@
+{
+  "nome": "Diamond Mall",
+  "endereco": "Av. Olegário Maciel, 1600",
+  "quantidadeLojas": 250,
+  "possuiCinema": true,
+  "horarioFuncionamento": "10:00 - 22:00"
+}
