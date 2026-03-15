@@ -1,0 +1,7 @@
+{
+  "nome": "UNA",
+  "cnpj": "12.345.678/0001-90",
+  "campus": "Belo Horizonte",
+  "cursosOferecidos": ["Sistemas de Informação", "Engenharia", "Direito"],
+  "publica": false
+}
